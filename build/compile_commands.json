@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ydm/Codes/Hand-Identify/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/opencv4/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/run.dir/main.cpp.o -c /home/ydm/Codes/Hand-Identify/main.cpp",
+  "file": "/home/ydm/Codes/Hand-Identify/main.cpp"
+}
+]
